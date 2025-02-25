@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "schema",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
